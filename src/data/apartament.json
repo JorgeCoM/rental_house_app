@@ -1,0 +1,44 @@
+{
+    "ubicacion": [
+        {
+            "mapa": {
+                "lat": 0,
+                "lng": 0
+            },
+            "locacion": ""
+        }
+    ],
+    "habitaciones": 0,
+    "baños": 0,
+    "ventanas": 0,
+    "metros_cuadrados": 0,
+    "venta": false,
+    "alquiler": false,
+    "vendedor": [
+        {
+            "nombre": "",
+            "apellido": "",
+            "ciudad": "",
+            "provincia": "",
+            "telefono": ""
+        }
+    ],
+    "precio": [
+        {
+            "min": 0,
+            "max": 0,
+            "precio_fijo": false,
+            "cantidad": 0
+        }
+    ],
+    "estadia": [
+        {
+            "fecha": "",
+            "entrada": "",
+            "salida": ""
+        }
+    ],
+    "views": 0,
+    "images": [],
+    "img_frontal": ""
+}
